@@ -1,0 +1,2 @@
+= NI-EPC - Effective C++ programming
+
